@@ -2,7 +2,7 @@ title:             Haylee Noelle Blog
 email:             haylee.nigh@gmail.com
 description:       Blog
 author:            Haylee Noelle
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/blog"
 url:               "https://hayleenighbert.github.io/blog/"
 
 # Social Profiles
