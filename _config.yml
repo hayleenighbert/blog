@@ -1,0 +1,19 @@
+title:             Haylee Noelle Blog
+email:             haylee.nigh@gmail.com
+description:       Blog
+author:            Haylee Noelle
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "https://hayleenighbert.github.io/blog/"
+
+# Social Profiles
+twitter_username:  hayleenoelle_
+github_username:   hayleenighbert
+facebook_username: 
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
